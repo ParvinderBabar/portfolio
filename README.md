@@ -26,7 +26,7 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
 
 1. Clone or fork project.
 2. Install required dependencies with `npm install`.
-3. Remove `homepage` entirely from `package.json` or set it to single dot. 
+3. Remove `homepage` entirely from `package.json` or set it to single dot.
 
 ```
 // package.json
@@ -37,7 +37,7 @@ Check live demonstration <a href="https://dorota1997.github.io/react-frontend-de
   "private": true,
   "dependencies": {
   ...
-}
+}}
 ```
 
 4. `npm start` project and customize it.
